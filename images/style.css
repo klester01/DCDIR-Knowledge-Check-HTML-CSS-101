@@ -1,0 +1,47 @@
+h1 {
+    text-align: center;
+    
+}
+
+h3 {
+text-align: left;
+display: inline-block;
+margin: auto;
+padding: 20px;
+}
+
+.box {
+    border: 3px solid black;
+    width: 800px;
+    height: 750px;
+    align-content: center;
+    padding: 20px;
+    
+}
+
+
+.boxone {
+    border: 3px solid gray;
+    width: 850px;
+    height: 800px;
+    align-content: center;
+    padding: 40px;
+    
+}
+p {
+    display: center;
+    text-align: center;
+}
+
+#txt {
+    color: blue;
+    text-align: center;
+    text-decoration: underline;
+}
+
+html {
+    padding: 5px;
+    width: 1000;
+    height: 1000;
+
+}
